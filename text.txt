@@ -1,8 +1,15 @@
 
 
 new changes added
+<<<<<<< HEAD
 Mustafa Enes Sahin
 Four
 Five
 Six
 Seven
+=======
+Mustafa Enes Sahin
+four
+five
+six
+>>>>>>> 391c5f3e11f776b3fd9862b25d9727533c694ac6
